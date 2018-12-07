@@ -1,0 +1,13 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Greg Wang <gregwym@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^7.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.1"
+  }
+}

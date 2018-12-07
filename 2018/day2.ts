@@ -1,0 +1,290 @@
+// https://adventofcode.com/2018/day/2
+
+const input = `ybruvapdgixszyckwtfqjonsie
+mbruvapxghslyyckwtfqjonsie
+mbruvapdghslzyckwtkujonsie
+rwruvapdghxlzyckwtfqjcnsie
+obruvapdgtxlzyckwtfqionsie
+lbruvapdghxqzyckwtfqjfnsie
+mbrunapdghxlzyccatfqjonsie
+mbruvapdghxlzyokltfqjdnsie
+ybruvapdghxlzmckwtfqjmnsie
+mbruwaadghxdzyckwtfqjonsie
+muruvapdghxlzyckvtfqjonsim
+mbruvapdghxlkyckwtxqjonjie
+mbruvaqdghxlzyckwtfqjrnnie
+mwruvapdghdlzyckttfqjonsie
+mbruvapdgtelzyckwxfqjonsie
+mbruvapdohxlzvckwtfqjonhie
+mbrugapdgbxlzyckwtfqjynsie
+mbruvapdghxlzyckwtlqjonjiu
+mbruvapwghxlzyckwafqjonbie
+wbruvapdghxlhyckwtfqjonsii
+mbruvapdghxlzyckwtcqnonsiq
+mbyuvapighxlzybkwtfqjonsie
+mbrrvapdghxvzyckwtfqjonsio
+mhruvapdghrlzyckwtfzjonsie
+mtruvapvghxlzyckwtfnjonsie
+mmrlhapdghxlzyckwtfqjonsie
+mbruvapdgpxlzyjkwtfqjovsie
+mbrucapdghxlzymkwtzqjonsie
+mbeuvafdghxlzyckwtfqjonwie
+mbruvapcghxlayckwtfqjonsii
+mbruvabdghxlzyckwtfqyansie
+mbruvjpdghxlzyckwtfqgfnsie
+lbruvapdghxlzyckwtfqjonriv
+mbrupapdghxlzycjwtfqronsie
+mbpuvapdthxlzymkwtfqjonsie
+mbiuvapdgixlzyckwxfqjonsie
+mbruvapdghxyzyckwtfcjonsbe
+mbrurapkghxlzyckwtfqjonzie
+mbrufapdrhxlzyciwtfqjonsie
+mbruvapdghxlzbckwtfqjoisae
+ubruhapdghxlzuckwtfqjonsie
+mbruvapdjhulzyckwtfqjonshe
+mbruwapdgyxlzyckntfqjonsie
+mwruvapdghplzyckwtfqjonsme
+mbruvapjghtlzyckwtfqgonsie
+pbruvapdghhlzyckwtfrjonsie
+mbruvgpdihxqzyckwtfqjonsie
+mbruvahdohxlzyckwtfijonsie
+ibuuvapdghxlzyckwtfqjofsie
+mbruvandghxlzyckwtfqjrnxie
+mbrjvlpdghxlzyckwgfqjonsie
+mbruvapogfxlzyckotfqjonsie
+mbruvrpdghxlzyckutfejonsie
+mbruvbpdghxlzyhkwtfqjonsip
+mbruvapdghxlzyckmnfqjensie
+mbruvapdghvlzyckwtfqjowsix
+mbruvakdgholzwckwtfqjonsie
+mbruvapdghxlzackwtfqconsae
+mbruvapdghxlzyqvwtfqjlnsie
+mprrvapdgfxlzyckwtfqjonsie
+mbrunacdghxlhyckwtfqjonsie
+obruvapdgsxlzyckwtfqjonvie
+murcvapdghslzyckwtfqjonsie
+mbruvapdghxlzyzkwmftjonsie
+mbrwvapdgtvlzyckwtfqjonsie
+mbxuvapdghxlzqcnwtfqjonsie
+mbruvaddghxboyckwtfqjonsie
+mhruvwndghxlzyckwtfqjonsie
+mbrdvapdghxlzyckwmpqjonsie
+mbruvapdgyxlzyckizfqjonsie
+mbruvapdghxlzlckwtfqeowsie
+mbruvbpdgrxlzyckwtfqjonsxe
+mbruqapoghxlzyckwtvqjonsie
+mbouhapdghmlzyckwtfqjonsie
+mbruvapjghxidyckwtfqjonsie
+mbsuvapkghxlkyckwtfqjonsie
+mbruvlpdghxlzycrwtfqjonsis
+mcrueapdghxlzyckwtfqjynsie
+muruvapngbxlzyckwtfqjonsie
+mbruvapdghxlzycawtfyjojsie
+mbruvbpdghxczyjkwtfqjonsie
+ybduvapdghxnzyckwtfqjonsie
+mbruvbpdghxlzyckwtfbjousie
+mbouvapdghxlzycbwtfqponsie
+mbruvaedghplzycgwtfqjonsie
+mbrhvapdghxlzyckytfqjgnsie
+mbruvapdqbxleyckwtfqjonsie
+mbruvapddhhldyckwtfqjonsie
+mbruvapdghxlwrckwtfqjondie
+mbruvapdmhxlzyckwtfqkonsve
+xbbuvapdghxlzyckwtfkjonsie
+mbruvapdghxlzyckwcfqjunkie
+mbruvapdghxlzyckwtfqxonfib
+mbrtvapkghxlzyckwtfqeonsie
+mbruvazdghxldymkwtfqjonsie
+kbruvapddhxlzfckwtfqjonsie
+mbouvapdghxlpyckwtfqjoosie
+mbauvapdghxlzyckwtfqjszsie
+mbruvapdghtlzyckntfqtonsie
+mbruvipdggxlzbckwtfqjonsie
+mbruqapdghrlzyckwtfqjznsie
+myruvacdghxlzyckwifqjonsie
+mbruvapdghxlzuckwtfkjocsie
+mwjuvapdghxlzyckwtfqjonsxe
+mbruvapxghxlzickwtfqjobsie
+mbrupapdghxtlyckwtfqjonsie
+meruvapdjjxlzyckwtfqjonsie
+mbruvkodghxlzyckwofqjonsie
+mbruvapdgexlzyckwtgkjonsie
+mbruvapwghxlzyckwtcqjonsiw
+mbruvapdghxlzykkwtfqtoxsie
+mbruvapdahxlzycgwtfwjonsie
+mbruvapdgwxlhyckhtfqjonsie
+mbruvapbghxlzycbhmfqjonsie
+mbruvapdghxvzyzkwtfqjonsin
+mbrcvapdqhxlzyckwyfqjonsie
+zbruvaxdghxlzyckwgfqjonsie
+mtruvapdghxlilckwtfqjonsie
+bbruvapdghxlzyckwtfmjonsxe
+mbruvajdghxlzyckwtfqfwnsie
+mbruvapdgkxlzyckwtfqionpie
+rbruvapdghxlryckwdfqjonsie
+mbruvandghxlzyckwmfvjonsie
+mbruvahdghxlzeckwtfqjonsme
+mbruvnpcghxlzyckwtfqjobsie
+mbruvapdghqlzyckwtfbjonsiy
+mbruvavdghxlzyckwufqjodsie
+mbruvapdghxlzyckwtfzmovsie
+mbruvlpdghxuzyckwtfqjoesie
+mbruvopdghxlzycwwtfqjansie
+obruvapdghglzybkwtfqjonsie
+mbpuvlpdghxlcyckwtfqjonsie
+mbruvaidghxlzyckwtfmjonoie
+mbruvapdihxzzyckwtfqjonsiy
+mbquvapdghxlzyckwtfqconsme
+mbruvapdghslzyckqtfqjojsie
+mbrzdapdghxmzyckwtfqjonsie
+mwruvapdghxozyckwtfqjonsxe
+muruvapdgfxlzyckwtfqjojsie
+wtruvapdghxlzyckvtfqjonsie
+mbruvapdghxlzyckysfqjxnsie
+mbruvrpdghxczyckktfqjonsie
+mbquvapdghxlryckwtfqjonsne
+mbruvapdghflzycvwtfqjpnsie
+mbruvapughclzyckwtfqjonsin
+mbrhvapdghxlpyckwtfqjonsre
+mbruvapdgtxlzyckwtfqjoosit
+mbrupapnghxhzyckwtfqjonsie
+mmvuvapdvhxlzyckwtfqjonsie
+mbruvaptghxlzyckwtfqjotsse
+mgruvapvghxlzyckwtfqjonsix
+mbrupapdghxszyckwtfqjunsie
+mbruvkpdghelzyckwtfqjpnsie
+mbruvrrdghjlzyckwtfqjonsie
+mbruvapdghnlzyckwtfkjonsze
+mbruvwpdghxlzyckwtfqhoysie
+mbrsvapdfhxlzyckwtfqjobsie
+mbruvapdgexezymkwtfqjonsie
+ybruvapdghxlzyckwtfqxonsiw
+mrruvapdghxdzyckwtfqjossie
+mbruvapdghtlzyckwtfqconsiu
+mbrpvapdghxlzlckwpfqjonsie
+mbruvjpdghslzyckwtfqjjnsie
+mhruvapoghxlzyckwtfvjonsie
+mbrubqpdghvlzyckwtfqjonsie
+mbruvapdghxlzackwtfqconsiw
+mbruvapdgnxlzkckwtfqjdnsie
+mbrudapgghelzyckwtfqjonsie
+mbruvapdghxlzlakwbfqjonsie
+mbpuvapdghxlzyckwtuqjonjie
+abruvapdghxlzykkwtfqjonzie
+mbrupupdghxlsyckwtfqjonsie
+mbrsvupdghxlzyckwtfqjonkie
+mxruvgpdghxllyckwtfqjonsie
+mbrnvapdghxlzycbwtfqfonsie
+mbrbxapdghxlzyckttfqjonsie
+mbnuvapdghxlzyxkwtmqjonsie
+mbrfvapdghjlzickwtfqjonsie
+mbhuvupdghxlzyxkwtfqjonsie
+mbrcvapdghxluyckwtfqjznsie
+mbruvapdghxlzyckwofqjoxsiz
+mbrevapdghxloyckwtfqjonnie
+mbruvipdghnlzyckwtfqjopsie
+mbxxvaptghxlzyckwtfqjonsie
+mbruvcpdghxlztckwtjqjonsie
+mqruvlpdghxlzyckotfqjonsie
+mbruvapdgqxlzyckwtfqjpvsie
+mbruvapdgvxlzyjkwtfqjbnsie
+mbruvapdghxlgyckwtfqcocsie
+mbruvapdghxkwyckwtfqjoqsie
+mbrgvavdghxlzyckwxfqjonsie
+qbruqapdgvxlzyckwtfqjonsie
+mbauvapdghxlzgckwtfqjunsie
+mbruvapdgdxluyckwtfqjoosie
+mbruvapdghxlzykkwtfqwobsie
+mbruvapdghxlzhcnwtfqjonqie
+mbruvapdghxlzycbhmfqjonsie
+mbruvapdghxluyczwtfqjontie
+mbruvapnghxlzyckwnfqjonbie
+moruvapdghxlzcckwtfqponsie
+mbruvapfgxxlzyckwtfqjunsie
+mbruvapdghxlryckvtfejonsie
+mbrzvapdghxlzvcbwtfqjonsie
+mbruvapdgqxlzyckwcfqjonsce
+abruvupdrhxlzyckwtfqjonsie
+mbrubaptghxlzyckwtfqjondie
+mgruvapdgpxlzyckwtfijonsie
+mbruvapdghxczlckwtfujonsie
+mbruvapdgmmlzyckwtfqjonsir
+mbruvapdhhxltyckwtfdjonsie
+mbruvapdghxlzyckwtfdjjnste
+mbrdvzpdghxlcyckwtfqjonsie
+mbruvapdghxlzyckwtnqbonsim
+mbrovapdghxlzyckwtfpjousie
+mymuvapdghxlzyjkwtfqjonsie
+mbpuvapdghxlzyckwtfljcnsie
+mbrxvapdghxlzyclwtfqjonpie
+mbrueapdghxlzyckwtfqjopsia
+mbruvapdghxlzycdwtfqjbfsie
+tbruvavdghxlzyckwtmqjonsie
+mbduvapdghxlzyckwrfqjrnsie
+mkrsvapughxlzyckwtfqjonsie
+mbruvapdghylzyckwtfqtolsie
+mgruvapdglxldyckwtfqjonsie
+mbrunapdghclzyckwtfqjonsiy
+mbruvapdgrxlxyckwtfgjonsie
+mbruvapdghxpzbckftfqjonsie
+mbruvcpdghxyzyckotfqjonsie
+mbruvapdghxlsyckwtfqcqnsie
+mbruvapdghxlzzckwtfqjonskf
+mbruvppdghxlzfckwtfqjgnsie
+mbhuvapdghxlzytkwtfqjonoie
+mbruvapdghxlzvrkwtfqjjnsie
+mbmuvapdghxuzyckwtfqjonsze
+mbruvapdghnlzycnwtfqjonsil
+mbruvapdgholzyckitfqjonsia
+mbruxapdghxlmyckwtfqbonsie
+mbauvapdgholzyckwtfqjolsie
+mbruvapdghxlzyckwtfqjotslq
+dbrutapdghxlzyckwtfqjonsiv
+mbruvapdzhxlyyckwtfbjonsie
+mmruaapsghxlzyckwtfqjonsie
+mbruvaldgqxqzyckwtfqjonsie
+mbruvaodghxdzyjkwtfqjonsie
+mbrcmatdghxlzyckwtfqjonsie
+mbrqvapdgtxlzycewtfqjonsie
+mjruvapdghzlzyckwtfqjonrie
+mbruvapdghxopcckwtfqjonsie
+mbruvapdghxszycwwtfqjoqsie
+mbruvapdgoxezyckwtjqjonsie`;
+const inputVals = input.split('\n');
+
+const charCounts = inputVals.map(val =>
+  Array.from(val).reduce((counts, char) => counts.set(char, (counts.get(char) || 0) + 1) || counts, new Map()),
+);
+const countOf2 = charCounts.filter(charCount => Array.from(charCount).some(([char, count]) => count === 2));
+const countOf3 = charCounts.filter(charCount => Array.from(charCount).some(([char, count]) => count === 3));
+console.log(countOf2.length * countOf3.length);
+
+const hashs = charCounts.map(charCount =>
+  Array.from(charCount).reduce((acc, [char, count]) => {
+    return acc + char.charCodeAt(0) * count;
+  }, 0),
+);
+
+const findDups = (vals: string[]) => {
+  const seen = new Map<string, number>();
+  for (const val of vals) {
+    seen.set(val, (seen.get(val) || 0) + 1);
+  }
+  return Array.from(seen)
+    .filter(([val, count]) => count > 1)
+    .map(([val, count]) => val);
+};
+
+// const valHashs = new Map();
+// const valCounts = new Map();
+for (let i = 0; i < inputVals[0].length; i++) {
+  const subVals = inputVals.map(val => val.substring(0, i) + val.substring(i + 1));
+  const dupVals = findDups(subVals);
+  if (dupVals.length) {
+    console.log(i, dupVals);
+  }
+}
+
+// console.log(valCounts);
+
+export {};
